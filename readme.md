@@ -6,6 +6,8 @@
 [![WACV 2025](https://img.shields.io/badge/WACV%202025-v1-0CA4A5?style=flat&logo=Semantic%20Web)](https://openaccess.thecvf.com/content/WACV2025/html/Yan_ColorizeDiffusion_Improving_Reference-Based_Sketch_Colorization_with_Latent_Diffusion_Model_WACV_2025_paper.html)
 [![CVPR 2025](https://img.shields.io/badge/CVPR%202025-v1.5-0CA4A5?style=flat&logo=Semantic%20Web)](https://arxiv.org/abs/2502.19937)
 [![arXiv v2 Paper](https://img.shields.io/badge/arXiv-2504.06895%20(v2)-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2504.06895)
+[![CVPR 2026](https://img.shields.io/badge/CVPR%202026-XL-0CA4A5?style=flat&logo=Semantic%20Web)](https://arxiv.org/abs/2603.05971)
+[![XL Code](https://img.shields.io/badge/GitHub-ColorizeDiffusion%20XL-181717?style=flat&logo=GitHub)](https://github.com/tellurion-kanata/ColorizeDiffusionXL)
 [![Model Weights](https://img.shields.io/badge/Hugging%20Face-Model%20Weights-FF9D00?style=flat&logo=Hugging%20Face)](https://huggingface.co/tellurion/ColorizeDiffusion/tree/main)
 [![License](https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-4CAF50?style=flat&logo=Creative%20Commons)](https://github.com/tellurion-kanata/colorizeDiffusion/blob/master/LICENSE)
 
@@ -22,9 +24,7 @@ Fundamental issue for this repository: [ColorizeDiffusion (e-print)](https://arx
 ***Version 1*** - Base training, 512px. Released, ckpt starts with **mult**.   
 ***Version 1.5*** - Solving spatial entanglement, 512px. Released, ckpt starts with **switch**.  
 ***Version 2*** - Enhancing background and style transfer, 768px. Released, ckpt starts with **v2**.  
-***Version XL*** - Enhancing embedding guidance for character colorization, geometry disentanglement, 1024px. Available soon.  
-XL version has been accepted by CVPR 2026, [code](https://github.com/tellurion-kanata/ColorizeDiffusionXL).
-Weights and online demo have been released. We will upload training details soon.
+***Version XL*** - Enhancing embedding guidance for character colorization, geometry disentanglement, 1024px. Released, [code](https://github.com/tellurion-kanata/ColorizeDiffusionXL), accepted by **CVPR 2026**.
 
 ## Getting Start
 
